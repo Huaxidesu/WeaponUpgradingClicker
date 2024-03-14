@@ -18,7 +18,7 @@
 
 ## 演示图片 ##
 
-1111111
+![演示图片](https://github.com/Huaxidesu/WeaponUpgradingClicker/blob/%E4%B8%BB%E8%A6%81/%E6%BC%94%E7%A4%BA/gif.gif)
 
 ## 注意事项 ##
 
