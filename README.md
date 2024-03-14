@@ -1,6 +1,6 @@
 # WeaponUpgradingClicker #
 
-给YDM的武器大师和Tetra锻造模组升级武器整的连点器。
+给Minecraft的武器大师Weapon Master和Tetra武器锻造模组升级武器整的连点器。
 
 ## 使用方法 ##
 
