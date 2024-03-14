@@ -6,7 +6,7 @@
 
 1. 确保你的系统中已经安装了Python环境。
 2. 安装所需库：使用命令`pip install pyautogui keyboard``pip install pyautogui pyautogui`安装`pyautogui`和`keyboard`库。
-3. 运行脚本：在命令行中使用`python click.py`命令运行脚本。（请将`click.py`替换为你的脚本文件名）
+3. 运行脚本：在命令行中使用`python click.py`命令运行脚本。
 4. 使用热键控制点击行为：
    - 按下←键：开始自动点击。
    - 按下→键：停止自动点击。
