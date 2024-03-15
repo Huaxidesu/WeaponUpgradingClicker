@@ -24,14 +24,14 @@ def end_program():
     print("结束程序")
 
 
-keyboard.add_hotkey("j", set_interval, args=(0.5,))  # 自己改键和时间
-keyboard.add_hotkey("k", set_interval, args=(1.0,))  # 自己改键和时间
-keyboard.add_hotkey("l", set_interval, args=(1.5,))  # 自己改键和时间
+keyboard.add_hotkey("left", set_interval, args=(0.5,))  # 自己改键和时间
+keyboard.add_hotkey("up", set_interval, args=(1.0,))  # 自己改键和时间
+keyboard.add_hotkey("[", set_interval, args=(1.5,))  # 自己改键和时间
 keyboard.add_hotkey("right", stop_clicking)  # 当按下→键时，停止点击
 keyboard.add_hotkey("down", end_program)  # 当按下↓键时，结束程序
 
 running = True
-clicking = True
+clicking = False
 try:
     while running:
         if clicking:
