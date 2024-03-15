@@ -51,6 +51,10 @@
 
 ![演示图片](https://github.com/Huaxidesu/WeaponUpgradingClicker/blob/%E4%B8%BB%E8%A6%81/%E6%BC%94%E7%A4%BA/gif.gif)
 
+## 演示视频 ##
+
+[演示视频](https://www.bilibili.com/video/BV1oz421f7zH/)
+
 ## 注意事项 ##
 
 - 运行Python脚本可能需要管理员权限。
