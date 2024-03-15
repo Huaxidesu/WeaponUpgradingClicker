@@ -53,7 +53,7 @@
 
 ## 演示视频 ##
 
-[演示视频](https://www.bilibili.com/video/BV1oz421f7zH/)
+[演示视频](https://www.bilibili.com/video/av1551861825)
 
 ## 注意事项 ##
 
