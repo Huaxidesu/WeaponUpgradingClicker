@@ -45,6 +45,10 @@
 
 3. 运行脚本：在命令行中使用`python 名字.py`命令运行脚本。
 
+## 演示图片 ##
+
+![演示图片](https://github.com/Huaxidesu/WeaponUpgradingClicker/blob/%E4%B8%BB%E8%A6%81/%E6%BC%94%E7%A4%BA/gif.gif)
+
 ## 注意事项 ##
 
 - 运行Python脚本可能需要管理员权限。
