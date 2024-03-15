@@ -6,6 +6,8 @@
 
 ### 如果你不熟悉也没下Python，建议下载`repeatclick.exe`双击使用，并以管理员权限运行 ###
 
+所有文件下载地址 [**下载最新版本**](https://github.com/Huaxidesu/WeaponUpgradingClicker/releases/)
+
 ### `click.py` - 基础自动点击 ###
 
 - **启动**: 按←键自动点击开始。
