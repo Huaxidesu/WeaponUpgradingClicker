@@ -25,7 +25,7 @@ def end_program():
 
 
 keyboard.add_hotkey("left", set_interval, args=(0.5,))  # 自己改键
-keyboard.add_hotkey("up", set_interval, args=(1.0,))    # 自己改键
+keyboard.add_hotkey("up", set_interval, args=(1.2,))    # 自己改键
 keyboard.add_hotkey("[", set_interval, args=(1.5,))    # 自己改键
 keyboard.add_hotkey("right", stop_clicking)            # 停止点击
 keyboard.add_hotkey("down", end_program)               # 结束程序
